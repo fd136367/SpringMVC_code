@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch08_forard_redirect:war">
+    <output-path>$PROJECT_DIR$/ch08_forward_redirect/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ch08_forard_redirect</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ch08_forard_redirect-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch08_forard_redirect:war exploded" />
+    </root>
+  </artifact>
+</component>

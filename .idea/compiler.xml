@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch01_hello" />
+        <module name="ch04_return" />
+        <module name="ch12_interceptor_permission" />
+        <module name="ch10_interceptor" />
+        <module name="ch07-ssm" />
+        <module name="ch02_requsetMapping" />
+        <module name="ch11_interceptor2" />
+        <module name="ch05_url_pattern" />
+        <module name="ch09_exception-handler" />
+        <module name="ch03_recevieparam" />
+        <module name="ch08_forward_redirect" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch01_hello" target="1.8" />
+      <module name="ch02_requsetMapping" target="1.8" />
+      <module name="ch02_requsetMapping (1)" target="1.8" />
+      <module name="ch03_recevieparam" target="1.8" />
+      <module name="ch04_return" target="1.8" />
+      <module name="ch05_url_pattern" target="1.8" />
+      <module name="ch07-ssm" target="1.8" />
+      <module name="ch07_ssm" target="1.8" />
+      <module name="ch08_forward_redirect" target="1.8" />
+      <module name="ch09_exception-handler" target="1.8" />
+      <module name="ch10_interceptor" target="1.8" />
+      <module name="ch11_interceptor2" target="1.8" />
+      <module name="ch12_interceptor_permission" target="1.8" />
+      <module name="ch_07_ssm" target="1.8" />
+      <module name="untitled" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

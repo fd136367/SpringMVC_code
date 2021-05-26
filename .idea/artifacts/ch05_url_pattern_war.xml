@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch05_url_pattern:war">
+    <output-path>$PROJECT_DIR$/ch05_url_pattern/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ch05_url_pattern</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ch05_url_pattern-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch05_url_pattern:war exploded" />
+    </root>
+  </artifact>
+</component>

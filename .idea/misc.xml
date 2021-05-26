@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ch01_hello" />
+    <file type="web" url="file://$PROJECT_DIR$/ch02_requsetMapping" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03_recevieparam" />
+    <file type="web" url="file://$PROJECT_DIR$/ch04_return" />
+    <file type="web" url="file://$PROJECT_DIR$/ch05_url_pattern" />
+    <file type="web" url="file://$PROJECT_DIR$/ch07-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/ch07_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/ch07_ssm/src/java" />
+    <file type="web" url="file://$PROJECT_DIR$/ch08_forward_redirect" />
+    <file type="web" url="file://$PROJECT_DIR$/ch09_exception-handler" />
+    <file type="web" url="file://$PROJECT_DIR$/ch10_interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/ch11_interceptor2" />
+    <file type="web" url="file://$PROJECT_DIR$/ch12_interceptor_permission" />
+    <file type="web" url="file://$PROJECT_DIR$/ch_07_ssm" />
+    <type id="Spring" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch01_hello/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02_requsetMapping/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03_recevieparam/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04_return/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05_url_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/ch08_forard_redirect/pom.xml" />
+        <option value="$PROJECT_DIR$/ch09_exception-handler/pom.xml" />
+        <option value="$PROJECT_DIR$/ch10_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/ch08_forward_redirect/pom.xml" />
+        <option value="$PROJECT_DIR$/ch11_interceptor2/pom.xml" />
+        <option value="$PROJECT_DIR$/ch12_interceptor_permission/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
